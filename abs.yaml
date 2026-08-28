@@ -1,6 +1,0 @@
-use_prefect_platforms:
-  - linux-64
-upload_channels:
-  - distro-tooling
-channels:
-  - distro-tooling

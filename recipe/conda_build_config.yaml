@@ -1,3 +1,3 @@
-# https://github.com/anchore/syft/blob/v1.46.0/go.mod#L5
+# https://github.com/anchore/syft/blob/v1.51.1/go.mod#L3
 go_nocgo:
   - 1.26.3
